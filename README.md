@@ -1,5 +1,5 @@
 # Linked List
-Linked list is a dyanamic data structure that be expand or shrink while program execution. 
+Linked list is a dynamic user defined data structure that can be expand or shrink while program execution. 
 
 ## Defining Linked List
 LL is decleared as user defined datatype that consist of 2 parts. 
