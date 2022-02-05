@@ -12,8 +12,8 @@ Following are some basic operations that build up working flow of list
 - Remove or Delete
 - Treverse or Display
 you can add more as of your need.
-### Uses of Linked List
-A very breif use of linked list, we can apply it to manage dynamic data operation while program execution.
+### Applications of Linked List
+A very breif application of linked list, we can implement it to manage dynamic data operation while program execution.
 A list of applicable sanories is
 - Tabs management in Web Browser
 - Graph management through adjustant list
